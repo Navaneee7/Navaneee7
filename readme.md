@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 ```javascript
-const Navaneetha Kumar LS = {
+    Navaneetha Kumar LS = {
     location: "Tamil Nadu, India",
     education: "Electronics & Communication Engineering",
     currentFocus: ["Design verification","VLSI", "Embedded Systems&IoT",],
@@ -35,24 +35,26 @@ const Navaneetha Kumar LS = {
 ### 💻 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
 </p>
 
 ### 🔧 Embedded Systems & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
-  <img src="https://img.shields.io/badge/AUTOSAR-009FE3?style=for-the-badge&logo=automotive&logoColor=white" alt="AUTOSAR"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://www.espressif.com/sites/all/themes/espressif/logo.png" width="40" height="40" alt="ESP32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi"/>
 </p>
 
 ### 🌐 Web Development
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
 </p>
 
 ### ⚙️ Tools & Technologies
@@ -65,13 +67,13 @@ const Navaneetha Kumar LS = {
 ---
 
 
----
+
 ## 💻 Coding Profiles
 
 <div align="center">
   
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]()
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)]()
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/navaneels7/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/navaneels7)
   
 </div>
 
@@ -82,7 +84,7 @@ const Navaneetha Kumar LS = {
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navaneels7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
   
 </div>
@@ -91,16 +93,11 @@ const Navaneetha Kumar LS = {
 
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</div>
-
----
 
 <div align="center">
   
 ### 💭 Random Dev Quote
-![]()
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=As%20transistors%20get%20smaller,%20power%20density%20stays%20constant.&author=Robert%20Dennard)
   
 ### ✍️ Let's Build
   
