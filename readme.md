@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navaneetha Kumar Ls</h1>
+<h1 align="center">Hi 👋, I'm Navaneetha Kumar LS</h1>
 <h3 align="center"> 🎓 Final year Student-CIT'26 |💻 Electronics & IoT| Aspiring vlsi Learner </h3>
 
 
@@ -18,14 +18,14 @@ const Navaneetha Kumar LS = {
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 💡 Current Focus
-- 📚 Strengthening **Object-Oriented Programming** principles
-- 🚗 Exploring **Automotive Software Development**
-- 🔧 Diving deep into **AUTOSAR Architecture**
+### 🧭 Current Focus
+- 📘 Strengthening fundamentals of digital logic, CMOS, and HDL-based design
+- 🧠 Exploring SoC architecture and **RTL-to-GDSII** VLSI design flow
+- 🔬 Understanding automotive-grade VLSI systems with safety constraints
 ### 🎯 Goals
-- 🏆 Contribute to open-source embedded systems projects
-- 📝 Share knowledge through technical blogs
-- 🚀 Land a role in Automotive/Embedded Systems domain
+- 🔍 Contribute to open-source VLSI/EDA projects and RTL design repositories
+- 📡 Share knowledge through VLSI and semiconductor technology blogs
+- 🚀 Secure a position in Automotive SoC and chip design roles
 - 💻 Build 10+ production-ready projects
 
 ---
@@ -34,7 +34,7 @@ const Navaneetha Kumar LS = {
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
