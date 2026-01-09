@@ -16,7 +16,7 @@
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="file:///C:/Users/navan/OneDrive/Pictures/Desktop/channel_routings_by_atomictrolley_dh7kfu.jpg">
 
 ### 🧭 Current Focus
 - 📘 Strengthening fundamentals of digital logic, CMOS, and HDL-based design
